@@ -1,1 +1,1 @@
-"# DiscordCommon" 
+# DiscordCommon
